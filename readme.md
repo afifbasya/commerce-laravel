@@ -18,6 +18,10 @@
 7. Jalan kan command "php artisan key:generate" tunggu sampai selesai
 8. Selesai
 
+## INFO
+
+Jika sweet alert bermasalah silahkan bisa diganti dengan : alert()->success('Success Message', 'Optional Title');
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
