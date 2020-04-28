@@ -18,6 +18,10 @@
 7. Jalan kan command "php artisan key:generate" tunggu sampai selesai
 8. Selesai
 
+## DATA PENUNGJANG 
+
+https://drive.google.com/open?id=1ZYWjVVdcQAhDSiI76CyBeC1JOzQm9wnD
+
 ## INFO
 
 Jika sweet alert bermasalah silahkan bisa diganti dengan : alert()->success('Success Message', 'Optional Title');
