@@ -18,7 +18,7 @@
 7. Jalan kan command "php artisan key:generate" tunggu sampai selesai
 8. Selesai
 
-## DATA PENUNGJANG 
+## DATA PENUNJANG 
 
 https://drive.google.com/open?id=1ZYWjVVdcQAhDSiI76CyBeC1JOzQm9wnD
 
