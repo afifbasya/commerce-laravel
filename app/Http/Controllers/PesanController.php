@@ -88,6 +88,7 @@ class PesanController extends Controller
     public function check_out()
     {
         $pesanan = Pesanan::where('user_id', Auth::user()->id)->where('status',0)->first();
+ 	$pesanan_details = [];
         if(!empty($pesanan))
         {
             $pesanan_details = PesananDetail::where('pesanan_id', $pesanan->id)->get();
